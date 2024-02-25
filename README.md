@@ -1,6 +1,6 @@
 # Kahoot-Replica
 
-𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐧𝐨𝐭𝐞: This game is BY NO MEANS COMMERCIAL. I am not affiliated with Kahoot at all, I just wanted to make this cool project for whoever would like to run it on their computer for absolutely free. However, I do encourage whoever is running my Kahoot replica to play the real Kahoot and see how similar this is.
+𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐧𝐨𝐭𝐞: This application is BY NO MEANS COMMERCIAL. I am not affiliated with Kahoot at all, I just wanted to make this cool project for whoever would like to run it on their computer for absolutely free. However, I do encourage whoever is running my Kahoot replica to play the real Kahoot and see how similar this is.
 
 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 "Kahoot Replica" is a local multiplayer quiz game to be played on 2 or more separate computers on the same WiFi. This game is inspired by the popular quiz game "Kahoot" because it simulates how Kahoot is played on their website "kahoot.it". Although this project of mine is not a website, it combines Python sockets with Python's library "pygame" to simulate the real version of Kahoot. The goal of the game is to score the most points out of all the players playing by answering each multiple-choice question correctly and quickly.
