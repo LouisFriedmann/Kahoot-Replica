@@ -1,4 +1,4 @@
 Question,Triangle,Diamond,Circle,Square,Correct Shape,Points For Question,Seconds For Question,Kahoot Settings,Yes or No
 Question 1,Choice 1,Choice 2,Choice 3,Choice 4,Circle,1000,30,Random name generator?,no
-Question 2,Choice 1,Choice 2,Choice 3,Choice 4,Square,2000,15,Enable spammer?,no
-Question 3,Choice 1,Choice 2,Choice 3,Choice 4,Diamond,1000,10,Music?,no
+Question 2,Choice 1,Choice 2,Choice 3,Choice 4,Square,2000,15,Enable spammer?,yes
+Question 3,Choice 1,Choice 2,Choice 3,Choice 4,Diamond,1000,10,Music?,yes
