@@ -41,4 +41,4 @@ In the "Kahoot Replica folder" which the host extracted somewhere on their compu
 
 𝐘𝐞𝐬 𝐎𝐫 𝐍𝐨: Corresponds to the "Kahoot Settings" column. For each question, say "yes" if you want that setting, and "no" otherwise.
 
-Note: The correct answer and choosing yes or no aren't case-sensitive. Also, for the host running "server.py," the instructions when running this script will ask which kahoot you want to play; those are all the CSV files (kahoot quizzes) you made and placed into the "quizzes" folder.
+Note: The correct answer and choosing yes or no aren't case-sensitive. Also, for the host running "server.py," the instructions when running this script will ask which kahoot you want to play; those are all the CSV files (kahoot quizzes) you made and placed into the "quizzes" folder. ALSO< SAVE EACH TIME YOU EDIT.
